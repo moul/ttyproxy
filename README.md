@@ -1,2 +1,2 @@
-# ttygw
-:wrench: Gateway to TTYs
+# ttyproxy
+:wrench: Proxy to TTYs

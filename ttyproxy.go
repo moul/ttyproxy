@@ -1,4 +1,4 @@
-package ttgw
+package ttproxy
 
 type TCPServer struct{}
 
